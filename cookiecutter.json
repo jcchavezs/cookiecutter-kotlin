@@ -1,0 +1,6 @@
+{
+    "project_name": "Kotlin App",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "app_namespace": "com.github.jcchavezs.{{ cookiecutter.project_slug.replace('-','') }}",
+    "app_namespace_directory": "{{ cookiecutter.app_namespace.replace('.', '/') }}"
+}
