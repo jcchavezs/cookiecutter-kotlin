@@ -9,7 +9,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <kotlin.version>1.3.61</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <main.class>{{ cookiecutter.app_namespace }}.MainKt</main.class>
         <slf4j.version>1.7.25</slf4j.version>
     </properties>
